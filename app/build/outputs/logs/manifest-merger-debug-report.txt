@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/8a4926a1d138a52c11eeb748b1482274/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b912672e0d0877757811c0c04a0eb175/AndroidManifest.xml:2:1-11:12
+MERGED from [io.paperdb:paperdb:2.6] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/paperdb-2.6.aar/8e4b6565c57bfecaf591b69b2a1cc703/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/8993a70216a35df771aa71812d6630ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/eb7158b84aa91ad71d1b506a16fb6b0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/43426daa2dda1caf7ea557dfe14ca41b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/209ab31abb9f25dbda3ddd20eb40f592/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/227562084767d8d8cd8e003e85f7702b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5bd94222c8b41bd6d168381db106eb7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a0b35d82695867fd4965202c0c9f9f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10c7b30eaf3dea2bcb9f6af155f6fc46/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4dad911a1221b1eefe577871d515042/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1e96517d5a3e6fff356def385d4e7f4c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:4:5-71
+	android:name
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:4:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b912672e0d0877757811c0c04a0eb175/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b912672e0d0877757811c0c04a0eb175/AndroidManifest.xml:9:5-20
+MERGED from [io.paperdb:paperdb:2.6] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/paperdb-2.6.aar/8e4b6565c57bfecaf591b69b2a1cc703/AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.6] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/paperdb-2.6.aar/8e4b6565c57bfecaf591b69b2a1cc703/AndroidManifest.xml:12:5-20
+	android:supportsRtl
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.mobven.recordandplay.MainActivity
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/8a4926a1d138a52c11eeb748b1482274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/8a4926a1d138a52c11eeb748b1482274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b912672e0d0877757811c0c04a0eb175/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b912672e0d0877757811c0c04a0eb175/AndroidManifest.xml:5:5-7:41
+MERGED from [io.paperdb:paperdb:2.6] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/paperdb-2.6.aar/8e4b6565c57bfecaf591b69b2a1cc703/AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.6] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/paperdb-2.6.aar/8e4b6565c57bfecaf591b69b2a1cc703/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/8993a70216a35df771aa71812d6630ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/8993a70216a35df771aa71812d6630ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/eb7158b84aa91ad71d1b506a16fb6b0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/eb7158b84aa91ad71d1b506a16fb6b0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/43426daa2dda1caf7ea557dfe14ca41b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/43426daa2dda1caf7ea557dfe14ca41b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/209ab31abb9f25dbda3ddd20eb40f592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/209ab31abb9f25dbda3ddd20eb40f592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/227562084767d8d8cd8e003e85f7702b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/227562084767d8d8cd8e003e85f7702b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5bd94222c8b41bd6d168381db106eb7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5bd94222c8b41bd6d168381db106eb7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a0b35d82695867fd4965202c0c9f9f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a0b35d82695867fd4965202c0c9f9f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10c7b30eaf3dea2bcb9f6af155f6fc46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10c7b30eaf3dea2bcb9f6af155f6fc46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4dad911a1221b1eefe577871d515042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4dad911a1221b1eefe577871d515042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1e96517d5a3e6fff356def385d4e7f4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gokhanbilgin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1e96517d5a3e6fff356def385d4e7f4c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gokhanbilgin/FORKEDWORKSPACE/RecordAndPlay/app/src/main/AndroidManifest.xml
